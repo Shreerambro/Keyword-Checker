@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+rarfile
+python-dotenv
+aiofiles
