@@ -1,6 +1,0 @@
-pyrogram
-tgcrypto
-rarfile
-unrar-cffi
-python-dotenv
-aiofiles
