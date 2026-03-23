@@ -4,9 +4,9 @@ Ultra-fast Telegram bot for keyword searching inside large files & archives (.tx
 
 ## 🚀 One-Click Deploy
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/SearchBotRepo)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shreerambro/Keyword-Checker)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yourusername/SearchBotRepo)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Shreerambro/Keyword-Checker)
 
 > ⚠️ Replace `yourusername` with your actual GitHub username in the URLs above after pushing!
 
