@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+rarfile
+python-dotenv
+aiofiles
+pymongo
+dnspython
+zipfile-deflate64
