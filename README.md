@@ -28,6 +28,7 @@ Ultra-fast Telegram bot for keyword searching inside large files & archives (.tx
 | `BOT_TOKEN` | From [@BotFather](https://t.me/BotFather) |
 | `OWNER_ID` | Your Telegram User ID (use `/myid`) |
 | `MONGODB_URI` | **(Optional)** Required for Heroku/Render to prevent data loss on restart |
+| `CHANNEL_ID`  | Channel id for getting Logs |
 
 ## 🖥️ VPS Deployment
 ```bash
